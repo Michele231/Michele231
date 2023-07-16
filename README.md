@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.unibo.it/sitoweb/michele.martinazzo2">
-    <img src="https://img.shields.io/badge/UNIBO-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/UNIBO-white?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
   </a>
 
 </div>
