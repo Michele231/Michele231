@@ -3,7 +3,7 @@ Here are just some codes!
 
 ![](https://komarev.com/ghpvc/?username=Michele231&color=blueviolet&style=for-the-badge)
 
-![Here](https://Michele231.github.io/vitae/cv.pdf) my CV!
+[Here](https://Michele231.github.io/vitae/cv.pdf) my CV!
 <!--
 **Michele231/Michele231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
