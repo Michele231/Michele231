@@ -48,6 +48,8 @@ I'm a Ph.D. student at the University of Bologna.
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" **alt="Raspberry Pi" width="45" height="45"/>
 </div>
 
+***
+
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michele231&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
