@@ -28,6 +28,7 @@ I'm a Ph.D. student at the University of Bologna.
 #### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" title="Fortran" **alt="Fortran" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" **alt="matlab" width="45" height="45"/>
