@@ -34,7 +34,7 @@ I'm a Ph.D. student at the University of Bologna.
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" **alt="matlab" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" **alt="Julia" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" title="Latex" alt="Latex" width="45" height="45"/>&nbsp;
 </div>
 
 #### Tools
