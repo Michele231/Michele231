@@ -56,8 +56,7 @@ I'm a Ph.D. student at the University of Bologna.
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michele231&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)--->
   <div id="stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michele231&layout=compact&theme=vision-friendly-dark" alt="Languages"/>
-    <img src="https://img.shields.io/badge/UNIBO-red?style=for-the-badge" alt="Youtube Badge"/>
-</div>
+    <script src="https://tryhackme.com/badge/228084"></script>
 </div>
 <!---[Here](https://Michele231.github.io/vitae/cv.pdf) my CV!--->
 
