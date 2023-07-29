@@ -57,9 +57,9 @@ I'm a Ph.D. student at the University of Bologna.
   <div id="stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michele231&layout=compact&theme=vision-friendly-dark" alt="Languages"/>
   </div>
-  <div id="stats">
+  <!---<div id="stats">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Fretiko95.png" alt="TryHackMe">
-  </div>
+  </div> --->
 </div>
 <!---[Here](https://Michele231.github.io/vitae/cv.pdf) my CV!--->
 
