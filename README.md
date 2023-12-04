@@ -7,7 +7,10 @@
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=read.cv&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.unibo.it/sitoweb/michele.martinazzo2">
-    <img src="https://img.shields.io/badge/UNIBO-red?style=for-the-badge" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/UNIBO-red?style=for-the-badge" alt="Unibo Badge"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Michele_Martinazzo">
+    <img src="https://img.shields.io/badge/RG-Aquamarine?style=for-the-badge" alt="Research gate Badge"/>
   </a>
 </div>
 
