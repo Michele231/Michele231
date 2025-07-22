@@ -22,7 +22,7 @@
 
 ### About me 👋:
 
-I'm a Ph.D. student at the University of Bologna.  
+I am a researcher at the University of Bologna.  
 
 ***
 
